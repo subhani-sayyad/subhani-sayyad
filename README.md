@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Fullstack (MERN)
 - 💞️ I’m looking to collaborate on Development teams
 - 📫 How to reach me subhani.e7@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Traveling | Designing
 
 <!---
 subhani-sayyad/subhani-sayyad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
